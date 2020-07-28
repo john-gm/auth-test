@@ -1,0 +1,7 @@
+
+
+global:  
+  oidc_server: keycloak-server1.hostname.com
+  oidc_username: user@domain.com
+  oidc_password: bad-idea-to-keep-password-here-it-is-known
+  oidc_client_id: kubernetes
